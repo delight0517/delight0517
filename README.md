@@ -4,7 +4,7 @@ AI 도구와 앱을 직접 만들고 운영합니다. 반복 작업을 줄이는
 
 ## 지금 만드는 것
 
-- **Jev Evidence Kit** — AI 답변과 토큰 사용량을 나란히 비교해 결과를 검증하는 오프라인 평가 도구
+- **[Jev Evidence Kit](https://delight0517.github.io/jev-evidence-kit/?utm_source=github-profile&utm_medium=owned_social&utm_campaign=jev_evidence_2026q3&utm_content=exp23_v1)** — 입력한 AI 답변 둘을 기대 결과와 비교하고, 둘 다 통과할 때만 회피 토큰을 기록하는 오프라인 도구
 - **Isle** — 콘텐츠를 직접 고르고 키우는 Flutter 기반 소셜·미디어 앱
 - **ReleasePilot** — 앱 출시 과정을 정리하고 자동화하는 도구와 운영 기록
 - **Aside Safe Extend** — 권한 범위를 제한해 브라우저 에이전트를 확장하는 로컬 도구 브리지
